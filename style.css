@@ -22,7 +22,8 @@ justify-content: center;
 
 h1{
 
-    font-size: 2.5rem;
+    font-size: 2.0rem;
+
 }
 
 /* secction hero */
@@ -49,6 +50,15 @@ text-align: center;
 
 }
 
+
+.hero-principal h2{
+
+font-size: 1.5rem;
+color: #615151;
+font-family: 'Sixtyfour', sans-serif;
+
+
+}
 
 
 
