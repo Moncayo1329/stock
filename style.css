@@ -26,6 +26,18 @@ h1{
 
 }
 
+.seccion-oscura{
+color:white;
+background-color:#1b1b32 ;
+}
+
+
+.seccion-titulo{
+    font-size: 2rem;
+    padding: 15px 0;
+    font-family:'Sixtyfour', sans-serif ;
+}
+
 /* secction hero */
 
 .hero{
@@ -71,4 +83,18 @@ font-family: 'Sixtyfour', sans-serif;
     .navbar-brand{
         display: none;
     }
+}
+
+
+/* Sobre Stocks */
+
+.sobre-stocks{
+    height: 500px;
+    padding: 10px;
+}
+
+
+.sobre-stocks .contenedor{
+    max-width: 600px;
+    text-align: center;
 }
