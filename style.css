@@ -98,3 +98,20 @@ font-family: 'Sixtyfour', sans-serif;
     max-width: 600px;
     text-align: center;
 }
+
+
+/* Experiencia */
+
+.experiencia{
+
+padding: 40px;
+
+}
+
+
+.experiencia .row div{
+
+height:250px;
+background-color: purple;
+border: 3px solid orange;
+}
