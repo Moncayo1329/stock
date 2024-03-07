@@ -38,6 +38,10 @@ background-color:#1b1b32 ;
     font-family:'Sixtyfour', sans-serif ;
 }
 
+.seccion-texto {
+font-size: 1.2rem;
+
+}
 /* secction hero */
 
 .hero{
