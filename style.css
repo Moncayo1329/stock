@@ -142,6 +142,17 @@ height:300px;
 }
 
 
+.Portafolio{
+
+    text-align: end;
+    position: relative;
+    bottom: 310px;
+    margin: 10px 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
 /* Tabla */
 
 table,th,td{
