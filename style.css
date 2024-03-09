@@ -140,3 +140,16 @@ height:300px;
     font-weight: bold;
     margin: 10px 0;
 }
+
+
+/* Tabla */
+
+table,th,td{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 10px;
+}
