@@ -28,7 +28,7 @@ h1{
 
 .seccion-oscura{
 color:white;
-background-color:#1b1b32 ;
+background-color:#181827 ;
 }
 
 .seccion-clara{
@@ -122,7 +122,7 @@ padding: 40px 40px 60px 40px;
 .experiencia .row div{
 
 height:250px; 
-background-color: purple;
+
 
 }
 
@@ -155,4 +155,10 @@ table,th,td{
 
 th,td{
     padding: 10px;
+}
+
+
+.table{
+    align-items: center;
+
 }
