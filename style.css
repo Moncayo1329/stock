@@ -121,7 +121,8 @@ padding: 40px 40px 60px 40px;
 
 .experiencia .row div{
 
-height:300px;
+height:250px; 
+background-color: purple;
 
 }
 
@@ -142,15 +143,6 @@ height:300px;
 }
 
 
-.Portafolio{
-
-    text-align: end;
-    position: relative;
-    bottom: 310px;
-    margin: 10px 0;
-    font-size: 25px;
-    font-weight: bold;
-}
 
 
 /* Tabla */
