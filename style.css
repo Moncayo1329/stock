@@ -137,29 +137,32 @@ height:260px;
 
 .experiencia-titulo{
 
-    font-size: 25px;
-    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Sixtyfour', sans-serif;
     margin: 8px 0;
 }
 
 
+.contacto i{
 
-
-/* Tabla */
-
-table,th,td{
-
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-
-th,td{
-    padding: 10px;
+    font-size: 2rem;
 }
 
 
-.table{
-    align-items: center;
+.contacto a{
+margin-top: 30px;
+position: relative;
+left: 10px;
+
+
+
+
 
 }
 
+
+.week{
+    font-family: "Jersey 20 Charted", sans-serif;
+
+
+}
