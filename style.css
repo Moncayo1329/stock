@@ -83,6 +83,13 @@ font-family: 'Sixtyfour', sans-serif;
 }
 
 
+.contacto {
+margin-left: 380px;
+ 
+}
+
+
+
 
 
 
@@ -145,14 +152,14 @@ height:260px;
 
 .contacto i{
 
-    font-size: 2rem;
+    font-size: 20px;
 }
 
 
 .contacto a{
 margin-top: 30px;
-position: relative;
-left: 10px;
+
+
 
 
 
