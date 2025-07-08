@@ -1,3 +1,10 @@
+body {
+  background-color: #f5f6f7; /* o el color que prefieras */
+  margin: 0;
+  padding: 0;
+}
+
+
 .navbar{
 padding: 2rem;
 background-color: #f5f6f7 ;
